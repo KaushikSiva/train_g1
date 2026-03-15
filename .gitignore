@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+baseline_policy.pt
+
+data/
+parsed_demo_0/
+prepared_bevorg_dataset/
